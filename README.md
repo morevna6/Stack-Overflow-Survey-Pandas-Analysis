@@ -70,6 +70,6 @@ For compensation analysis, missing yearly compensation values were ignored durin
 ```text
 stackoverflow-developer-survey-analysis/
 │
-├── results.csv
+├── results.csv.gz
 ├── stackoverflow_developer_survey_analysis.ipynb
 └── README.md
