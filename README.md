@@ -14,7 +14,7 @@ The dataset used in this project is the Stack Overflow Developer Survey dataset.
 
 File used:
 
-- `results.csv`
+- `results.csv.gz`
 
 The dataset contains survey responses from developers and includes information such as age, education level, employment status, work experience, programming languages, learning methods, remote work status, yearly compensation, country, and industry.
 
